@@ -1,3 +1,5 @@
+# List to be in sorted order
+# Example of Divide and Conquer
 def binarySearch(list,n):
 	first = 0
 	last = len(list)-1
